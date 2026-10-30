@@ -7,5 +7,5 @@ This repository contains data analysis for student performance using R/Python.
 - Visualizes data patterns and trends.
 
 ## Tech Stack
-- R / Python
--
+- R 
+
